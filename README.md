@@ -10,7 +10,7 @@ pkg update && pkg upgrade
 pkg install git
 
 
-git clone https://github.com/qwerty987654321my-dot/termux-broadcast-.git
+git clone https://github.com/qwerty987654321my-dot/termux-broadcast.git
 
 
 cd termux-broadcast
